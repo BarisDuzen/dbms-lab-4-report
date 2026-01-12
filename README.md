@@ -49,6 +49,7 @@ DB diske yazarken:
 | Kavram      | Bellek          | Disk / DB      |
 | ----------- | --------------- | -------------- |
 | Adresleme   | Pointer         | Page + Offset  |
+| Erişim Birimi | Byte           | Page
 | Hız         | O(1)            | Page IO        |
 | PK          | Yok             | Index anahtarı |
 | Veri yapısı | Array / Pointer | B+Tree         |
