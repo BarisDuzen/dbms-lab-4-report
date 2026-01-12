@@ -56,10 +56,8 @@ DB diske yazarken:
 
 ---
 
-# Video [Linki](https://www.youtube.com/watch?v=Nw1OvCtKPII&t=2635s) 
-Ekran kaydı. 2-3 dk. açık kaynak V.T. kodu üzerinde konunun gösterimi. Video kendini tanıtma ile başlamalıdır (Numara, İsim, Soyisim, Teknik İlgi Alanları). 
+# Video [Linki](https://youtu.be/NAG6W2XLo84) 
 
----
 
 # Açıklama (Ort. 600 kelime)
 
