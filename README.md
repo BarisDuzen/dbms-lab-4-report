@@ -70,8 +70,6 @@ Bu süreçlerin tamamlayıcısı olarak, hedeflenen verinin hangi fiziksel blokt
 
 ## VT Üzerinde Gösterilen Kaynak Kodları
 
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-... \
-...
+Sayfa Okuması [Linki](https://github.com/postgres/postgres/blob/master/src/include/storage/bufpage.h) \
+RAM'de tutma [Linki](https://github.com/postgres/postgres/blob/master/src/backend/storage/buffer/bufmgr.c) \
+B+ Tree [Linki](https://github.com/postgres/postgres/blob/master/src/backend/access/nbtree/nbtsearch.c) \
