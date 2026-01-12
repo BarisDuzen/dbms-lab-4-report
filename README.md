@@ -49,9 +49,9 @@ DB diske yazarken:
 | Kavram      | Bellek          | Disk / DB      |
 | ----------- | --------------- | -------------- |
 | Adresleme   | Pointer         | Page + Offset  |
-| Erişim Birimi | Byte           | Page
+| Erişim Birimi | Byte           | Page          |
+| Erişim Maliyeti| Her yere aynı | Disk Bekleme Maliyeti|
 | Hız         | O(1)            | Page IO        |
-| PK          | Yok             | Index anahtarı |
 | Veri yapısı | Array / Pointer | B+Tree         |
 | Cache       | CPU cache       | Buffer Pool    |
 
